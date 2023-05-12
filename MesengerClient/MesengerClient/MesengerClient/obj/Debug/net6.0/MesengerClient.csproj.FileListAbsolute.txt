@@ -1,0 +1,15 @@
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\MesengerClient.exe
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\MesengerClient.deps.json
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\MesengerClient.runtimeconfig.json
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\MesengerClient.dll
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\ref\MesengerClient.dll
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\bin\Debug\net6.0\MesengerClient.pdb
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.AssemblyInfoInputs.cache
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.AssemblyInfo.cs
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.csproj.CoreCompileInputs.cache
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.dll
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\ref\MesengerClient.dll
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.pdb
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.genruntimeconfig.cache
+C:\Users\ondra\Downloads\MesengerClient\MesengerClient\MesengerClient\obj\Debug\net6.0\MesengerClient.csproj.AssemblyReference.cache
